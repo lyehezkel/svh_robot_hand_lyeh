@@ -1,0 +1,34 @@
+<?xml version="1.0"?>
+<?xml-model
+href="http://download.ros.org/schema/package_format3.xsd"
+schematypens="http://www.w3.org/2001/XMLSchema"?>
+<package format="3">
+        <name>schunk_svh_driver</name>
+        <version>2.0.1</version>
+        <description>ROS2-control system interface for the Schunk SVH</description>
+        <maintainer email="scherzin@fzi.de">Stefan Scherzinger</maintainer>
+        <license>GPL-3.0-or-later</license>
+
+        <buildtool_depend>ament_cmake</buildtool_depend>
+
+        <depend>hardware_interface</depend>
+        <depend>pluginlib</depend>
+        <depend>rclcpp</depend>
+        <depend>schunk_svh_library</depend>
+
+        <exec_depend>schunk_svh_description</exec_depend>
+        <exec_depend>controller_manager</exec_depend>
+        <exec_depend>joint_state_controller</exec_depend>
+        <exec_depend>joint_trajectory_controller</exec_depend>
+        <exec_depend>launch</exec_depend>
+        <exec_depend>launch_ros</exec_depend>
+        <exec_depend>ros2launch</exec_depend>
+        <exec_depend>xacro</exec_depend>
+
+        <test_depend>ament_lint_auto</test_depend>
+        <!--<test_depend>ament_lint_common</test_depend>-->
+
+        <export>
+                <build_type>ament_cmake</build_type>
+        </export>
+</package>

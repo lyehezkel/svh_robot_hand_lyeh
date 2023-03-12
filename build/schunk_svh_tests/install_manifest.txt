@@ -1,0 +1,15 @@
+/home/lab-pc/robot_hand_ws/install/schunk_svh_tests/share/ament_index/resource_index/package_run_dependencies/schunk_svh_tests
+/home/lab-pc/robot_hand_ws/install/schunk_svh_tests/share/ament_index/resource_index/parent_prefix_path/schunk_svh_tests
+/home/lab-pc/robot_hand_ws/install/schunk_svh_tests/share/schunk_svh_tests/environment/ament_prefix_path.sh
+/home/lab-pc/robot_hand_ws/install/schunk_svh_tests/share/schunk_svh_tests/environment/ament_prefix_path.dsv
+/home/lab-pc/robot_hand_ws/install/schunk_svh_tests/share/schunk_svh_tests/environment/path.sh
+/home/lab-pc/robot_hand_ws/install/schunk_svh_tests/share/schunk_svh_tests/environment/path.dsv
+/home/lab-pc/robot_hand_ws/install/schunk_svh_tests/share/schunk_svh_tests/local_setup.bash
+/home/lab-pc/robot_hand_ws/install/schunk_svh_tests/share/schunk_svh_tests/local_setup.sh
+/home/lab-pc/robot_hand_ws/install/schunk_svh_tests/share/schunk_svh_tests/local_setup.zsh
+/home/lab-pc/robot_hand_ws/install/schunk_svh_tests/share/schunk_svh_tests/local_setup.dsv
+/home/lab-pc/robot_hand_ws/install/schunk_svh_tests/share/schunk_svh_tests/package.dsv
+/home/lab-pc/robot_hand_ws/install/schunk_svh_tests/share/ament_index/resource_index/packages/schunk_svh_tests
+/home/lab-pc/robot_hand_ws/install/schunk_svh_tests/share/schunk_svh_tests/cmake/schunk_svh_testsConfig.cmake
+/home/lab-pc/robot_hand_ws/install/schunk_svh_tests/share/schunk_svh_tests/cmake/schunk_svh_testsConfig-version.cmake
+/home/lab-pc/robot_hand_ws/install/schunk_svh_tests/share/schunk_svh_tests/package.xml

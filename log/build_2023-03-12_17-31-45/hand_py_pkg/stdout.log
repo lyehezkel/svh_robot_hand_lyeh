@@ -1,0 +1,16 @@
+running develop
+running egg_info
+writing hand_py_pkg.egg-info/PKG-INFO
+writing dependency_links to hand_py_pkg.egg-info/dependency_links.txt
+writing entry points to hand_py_pkg.egg-info/entry_points.txt
+writing requirements to hand_py_pkg.egg-info/requires.txt
+writing top-level names to hand_py_pkg.egg-info/top_level.txt
+reading manifest file 'hand_py_pkg.egg-info/SOURCES.txt'
+writing manifest file 'hand_py_pkg.egg-info/SOURCES.txt'
+running build_ext
+Creating /home/lab-pc/robot_hand_ws/install/hand_py_pkg/lib/python3.8/site-packages/site.py
+Creating /home/lab-pc/robot_hand_ws/install/hand_py_pkg/lib/python3.8/site-packages/hand-py-pkg.egg-link (link to .)
+
+Installed /home/lab-pc/robot_hand_ws/build/hand_py_pkg
+running install_data
+copying package.xml -> /home/lab-pc/robot_hand_ws/install/hand_py_pkg/share/hand_py_pkg

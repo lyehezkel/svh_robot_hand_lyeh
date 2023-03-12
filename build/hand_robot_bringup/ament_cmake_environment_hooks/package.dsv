@@ -1,0 +1,4 @@
+source;share/hand_robot_bringup/local_setup.bash
+source;share/hand_robot_bringup/local_setup.dsv
+source;share/hand_robot_bringup/local_setup.sh
+source;share/hand_robot_bringup/local_setup.zsh

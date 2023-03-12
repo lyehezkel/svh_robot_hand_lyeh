@@ -1,0 +1,18 @@
+[0.347s] Invoking command in '/home/lab-pc/robot_hand_ws/build/hand_py_pkg': PYTHONPATH=/home/lab-pc/robot_hand_ws/build/hand_py_pkg/prefix_override:/home/lab-pc/robot_hand_ws/install/hand_py_pkg/lib/python3.8/site-packages:${PYTHONPATH} /usr/bin/python3 setup.py develop --editable --build-directory /home/lab-pc/robot_hand_ws/build/hand_py_pkg/build --no-deps install_data
+[0.473s] running develop
+[0.556s] running egg_info
+[0.556s] writing hand_py_pkg.egg-info/PKG-INFO
+[0.556s] writing dependency_links to hand_py_pkg.egg-info/dependency_links.txt
+[0.556s] writing entry points to hand_py_pkg.egg-info/entry_points.txt
+[0.556s] writing requirements to hand_py_pkg.egg-info/requires.txt
+[0.556s] writing top-level names to hand_py_pkg.egg-info/top_level.txt
+[0.574s] reading manifest file 'hand_py_pkg.egg-info/SOURCES.txt'
+[0.574s] writing manifest file 'hand_py_pkg.egg-info/SOURCES.txt'
+[0.592s] running build_ext
+[0.593s] Creating /home/lab-pc/robot_hand_ws/install/hand_py_pkg/lib/python3.8/site-packages/site.py
+[0.594s] Creating /home/lab-pc/robot_hand_ws/install/hand_py_pkg/lib/python3.8/site-packages/hand-py-pkg.egg-link (link to .)
+[0.594s] 
+[0.594s] Installed /home/lab-pc/robot_hand_ws/build/hand_py_pkg
+[0.594s] running install_data
+[0.594s] copying package.xml -> /home/lab-pc/robot_hand_ws/install/hand_py_pkg/share/hand_py_pkg
+[0.609s] Invoked command in '/home/lab-pc/robot_hand_ws/build/hand_py_pkg' returned '0': PYTHONPATH=/home/lab-pc/robot_hand_ws/build/hand_py_pkg/prefix_override:/home/lab-pc/robot_hand_ws/install/hand_py_pkg/lib/python3.8/site-packages:${PYTHONPATH} /usr/bin/python3 setup.py develop --editable --build-directory /home/lab-pc/robot_hand_ws/build/hand_py_pkg/build --no-deps install_data
