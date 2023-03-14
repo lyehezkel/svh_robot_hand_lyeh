@@ -1,4 +1,0 @@
-source;share/schunk_svh_tests/local_setup.bash
-source;share/schunk_svh_tests/local_setup.dsv
-source;share/schunk_svh_tests/local_setup.sh
-source;share/schunk_svh_tests/local_setup.zsh

@@ -1,1 +1,0 @@
-/home/lab-pc/robot_hand_ws/src/hand_py_pkg/setup.py
