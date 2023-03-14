@@ -1,1 +1,0 @@
-controller_manager:hardware_interface:joint_state_controller:joint_trajectory_controller:launch:launch_ros:pluginlib:rclcpp:ros2launch:schunk_svh_description:schunk_svh_library:xacro
