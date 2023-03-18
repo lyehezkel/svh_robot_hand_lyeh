@@ -7,8 +7,8 @@ def fist():
 ```
 These array sending the vaule for each joint of the hand its value, so if you change the values to your needs you need to source the termianal and start the launch file again.
 
-You can also move the joints by using the 'joint_state_publisher_gui' you can start the node by using this line in terminal:
+You can also move the joints by using the 'joint_state_publisher_gui'. You can start the node by using this line in terminal:
 ```
 ros2 run joint_state_publisher_gui joint_state_publisher_gui
 ```
-make sure that you kill the 'requsted_gestures.py' node before you use the 'joint_state_publisher_gui' because both of them will send information to the '/robot_description' topic and it will result jitter in the visual of the robot hand
+Make sure that you kill the 'requsted_gestures.py' node before you use the 'joint_state_publisher_gui' because both of them will send information to the '/robot_description' topic and it will result jitter in the visual of the robot hand
