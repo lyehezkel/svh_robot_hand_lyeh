@@ -1,4 +1,4 @@
-# change the hand gestures
+# Change the hand gestures
 in order to change the hand gestures, go to the file 'requsted_gestures.py'. then look for the arrays that look like this:
 ```
 def fist():
